@@ -2,6 +2,6 @@ import _ from 'lodash';
 
 _.mixin({
     xeonsign: function () {
-        console.log('ANJAY MABAR');
+        console.log('Created by Muhammad Fahri');
     }
 });

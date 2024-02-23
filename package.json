@@ -1,6 +1,6 @@
 {
     "name": "xeonsign",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Signature App",
     "main": "index.js",
     "scripts": {
